@@ -1,0 +1,31 @@
+body {
+    background-image: url(img/weat.jpg);
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+  h2{
+          margin-top: 1px;
+          text-align: left;
+ }
+ h1{
+    
+    color: brown;
+ }
+   
+#weather-container {
+
+    
+    padding: 30px;
+    border: 3px solid #ccc;
+    border-radius: 20px;
+}
+button{
+    margin: 50px;
+    border: 2px solid blueviolet;
+    border-radius: 15px;
+}
+div{
+    margin: 40px;
+}
